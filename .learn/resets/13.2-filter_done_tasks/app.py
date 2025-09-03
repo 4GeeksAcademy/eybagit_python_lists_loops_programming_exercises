@@ -9,10 +9,6 @@ tasks = [
 	{ "label": 'Make a trip', "done": False }
 ]
 
-done_tasks = list(filter(lambda task: task['done'] == True, tasks))
 
-
-print(done_tasks)
-
-
+# Your code here
 
