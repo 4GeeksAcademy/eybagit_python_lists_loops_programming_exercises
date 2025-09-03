@@ -21,3 +21,4 @@ lyrics_generator([0,0,1,1,1,0,0,0])
 lyrics_generator([0,0,0])
 lyrics_generator([1,0,1])
 lyrics_generator([1,1,1])
+# Terminado
